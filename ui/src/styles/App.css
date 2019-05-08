@@ -1,0 +1,9 @@
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+.day-forecast {
+    float: left;
+    width: 10%;
+}
