@@ -1,3 +1,5 @@
+'use strict';
+
 import {FETCH_FORECAST} from "./types";
 
 export const fetchForecast = (cityName) => dispatch => {

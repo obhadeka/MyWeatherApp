@@ -5,5 +5,12 @@ h1 {
 
 .day-forecast {
     float: left;
-    width: 10%;
+    width: 8%;
+    border-right: 1px solid brown;
+    padding-left: 1em;
+    height: 270px;
+}
+
+.day-forecast:last-child {
+    border: none;
 }
